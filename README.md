@@ -1,4 +1,4 @@
-# 🏡 dream -home-finder 🌐
+# 🏡Dream-Home-Finder
 
 **One Platform for Every Accommodation Need**
 *Renting ▪ Buying ▪ Selling ▪ Couchsurfing ▪ Homestay ▪ PG ▪ Dharamshala*
