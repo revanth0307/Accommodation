@@ -3,6 +3,13 @@
 **One Platform for Every Accommodation Need**
 *Renting ▪ Buying ▪ Selling ▪ Couchsurfing ▪ Homestay ▪ PG ▪ Dharamshala*
 
+## 2. Team Members
+| Name          | Role                | Portfolio | Repository |
+|---------------|---------------------|-----------|------------|
+| Revanth  |          | [Link]()    | [Link]()     |
+| Pravin  | Full Stack         | [Link](https://vins-portfolio-two.vercel.app/)    | [Link](https://github.com/Pravin-hub-rgb?tab=repositories)     |
+
+
 ---
 
 ## 📑 Table of Contents
