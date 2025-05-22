@@ -1,4 +1,3 @@
-# Accommodation
 # 🏡 dream -home-finder 🌐
 
 **One Platform for Every Accommodation Need**
@@ -8,42 +7,42 @@
 
 ## 📑 Table of Contents
 
-1. [Executive Summary](#executive-summary)
-2. [The Five Ws](#the-five-ws)
+* [Executive Summary](#executive-summary)
+* [The Five Ws](#the-five-ws)
 
-   1. [What?](#what)
-   2. [Why?](#why)
-   3. [Who?](#who)
-   4. [When?](#when)
-   5. [Where?](#where)
-   6. [How?](#how)
-3. [Project Vision](#project-vision)
-4. [Market Analysis](#market-analysis)
+  * [What?](#what)
+  * [Why?](#why)
+  * [Who?](#who)
+  * [When?](#when)
+  * [Where?](#where)
+  * [How?](#how)
+* [Project Vision](#project-vision)
+* [Market Analysis](#market-analysis)
 
-   1. [Target Market & Segments](#target-market--segments)
-   2. [Competitor Analysis](#competitor-analysis)
-   3. [SWOT Analysis](#swot-analysis)
-   4. [Trends & Opportunities](#trends--opportunities)
-5. [Business Model](#business-model)
+  * [Target Market & Segments](#target-market--segments)
+  * [Competitor Analysis](#competitor-analysis)
+  * [SWOT Analysis](#swot-analysis)
+  * [Trends & Opportunities](#trends--opportunities)
+* [Business Model](#business-model)
 
-   1. [Revenue Streams](#revenue-streams)
-   2. [Pricing Strategy](#pricing-strategy)
-   3. [Acquisition Channels](#acquisition-channels)
-6. [Implementation Plan](#implementation-plan)
-7. [Key Partnerships](#key-partnerships)
-8. [Roadmap & Timeline](#roadmap--timeline)
+  * [Revenue Streams](#revenue-streams)
+  * [Pricing Strategy](#pricing-strategy)
+  * [Acquisition Channels](#acquisition-channels)
+* [Implementation Plan](#implementation-plan)
+* [Key Partnerships](#key-partnerships)
+* [Roadmap & Timeline](#roadmap--timeline)
 
 ---
 
-## 📝 Executive Summary
+## Executive Summary {#executive-summary}
 
 **dream -home-finder** unifies every accommodation category—rent, buy/sell, couchsurf, homestay, PG, Dharamshala—into one seamless platform, offering real‐time listings, secure bookings, and a vibrant UX.
 
 ---
 
-## 🔍 The Five Ws
+## The Five Ws {#the-five-ws}
 
-### 1. What?
+### What? {#what}
 
 **Core Features**
 
@@ -64,7 +63,7 @@
 
 ---
 
-### 2. Why?
+### Why? {#why}
 
 **Problems We Solve**
 
@@ -78,7 +77,7 @@
 
 ---
 
-### 3. Who?
+### Who? {#who}
 
 * Travelers & Tourists
 * Students & Young Professionals
@@ -87,7 +86,7 @@
 
 ---
 
-### 4. When?
+### When? {#when}
 
 * **Alpha:** Q3 2025
 * **Beta:** Q4 2025
@@ -95,14 +94,14 @@
 
 ---
 
-### 5. Where?
+### Where? {#where}
 
 * **Initial:** Tier-1/2 Indian cities
 * **Future:** SEA & Middle East pilgrim circuits
 
 ---
 
-### 6. How?
+### How? {#how}
 
 1. React SPA ↔️ Express API ↔️ MongoDB
 2. Firebase for Auth & Notifications
@@ -110,7 +109,7 @@
 
 ---
 
-## 🌈 Project Vision
+## Project Vision {#project-vision}
 
 * **Short-Term:** MVP (Rent/Buy/Sell + PG)
 * **Mid-Term:** Add Couchsurf & Homestay
@@ -118,9 +117,9 @@
 
 ---
 
-## 📊 Market Analysis
+## Market Analysis {#market-analysis}
 
-### Target Market & Segments
+### Target Market & Segments {#target-market--segments}
 
 | Segment            | Stat                                |
 | ------------------ | ----------------------------------- |
@@ -130,7 +129,7 @@
 | Couchsurfing Hosts | 750K active globally (CS 2023)      |
 | Real Estate Buyers | ₹50L Cr. market (Knight Frank 2024) |
 
-### Competitor Analysis
+### Competitor Analysis {#competitor-analysis}
 
 | Platform     | Strengths       | Gaps vs. dream -home-finder |
 | ------------ | --------------- | --------------------------- |
@@ -140,7 +139,7 @@
 | OYO          | Budget stays    | Hotels/hostels only         |
 | Magicbricks  | Property sales  | No short-term options       |
 
-### SWOT Analysis
+### SWOT Analysis {#swot-analysis}
 
 | Strengths               | Weaknesses             |
 | ----------------------- | ---------------------- |
@@ -154,21 +153,21 @@
 
 ---
 
-## 💼 Business Model
+## Business Model {#business-model}
 
-### Revenue Streams
+### Revenue Streams {#revenue-streams}
 
 1. Transaction Fees (1.5% rentals, 3% PG/homestay, 5% sales)
 2. Premium Listings & Boosts (₹299/day, ₹999/mo badge)
 3. Subscriptions (Student ₹99, Pilgrim ₹199, Investor ₹4999)
 4. Value-Added Services (₹499 KYC, ₹2999 virtual tour)
 
-### Pricing Strategy
+### Pricing Strategy {#pricing-strategy}
 
 * Tiered & Surge Pricing
 * Anchor Offers (Free basic PG listings)
 
-### Acquisition Channels
+### Acquisition Channels {#acquisition-channels}
 
 * Digital: Instagram, WhatsApp, Google Ads
 * Offline: Campus ambassadors, kiosks
@@ -176,7 +175,7 @@
 
 ---
 
-## 📆 Implementation Plan
+## Implementation Plan {#implementation-plan}
 
 1. Q3 2025: MVP (Rent/Buy/Sell)
 2. Q4 2025: PG & Couchsurf
@@ -185,7 +184,7 @@
 
 ---
 
-## 🤝 Key Partnerships
+## Key Partnerships {#key-partnerships}
 
 | Type             | Partners             | Value Add                      |
 | ---------------- | -------------------- | ------------------------------ |
@@ -197,7 +196,7 @@
 
 ---
 
-## 🛣️ Roadmap & Timeline
+## Roadmap & Timeline {#roadmap--timeline}
 
 | Milestone             | Date      |
 | --------------------- | --------- |
