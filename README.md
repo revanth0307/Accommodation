@@ -3,7 +3,7 @@
 **One Platform for Every Accommodation Need**
 *Renting ▪ Buying ▪ Selling ▪ Couchsurfing ▪ Homestay ▪ PG ▪ Dharamshala*
 
-## 2. Team Members
+## Team Members
 | Name          | Role                | Portfolio | Repository |
 |---------------|---------------------|-----------|------------|
 | Revanth  |Full Stack         | [Link]()    | [Link](https://github.com/revanth0307?tab=repositories)     |
