@@ -6,7 +6,7 @@
 ## 2. Team Members
 | Name          | Role                | Portfolio | Repository |
 |---------------|---------------------|-----------|------------|
-| Revanth  |          | [Link]()    | [Link]()     |
+| Revanth  |Full Stack         | [Link]()    | [Link](https://github.com/revanth0307?tab=repositories)     |
 | Pravin  | Full Stack         | [Link](https://vins-portfolio-two.vercel.app/)    | [Link](https://github.com/Pravin-hub-rgb?tab=repositories)     |
 
 
