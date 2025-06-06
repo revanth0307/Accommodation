@@ -1,4 +1,4 @@
-# 🏡Dream-Home-Finder
+# 🏡HabitatHub
 
 **One Platform for Every Accommodation Need**
 *Renting ▪ Buying ▪ Selling ▪ Couchsurfing ▪ Homestay ▪ PG ▪ Dharamshala*
@@ -115,6 +115,9 @@
 3. Stripe/Paytm Integration for Payments
 
 ---
+
+## ER Diagram
+![ER Diagram](./DOCUMENTATION/ER%20Diagram/erds.svg)
 
 ## Project Vision {#project-vision}
 
