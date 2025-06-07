@@ -1,4 +1,4 @@
-# 🏡HabitatHub
+# 🏡Panaah
 
 **One Platform for Every Accommodation Need**
 *Renting ▪ Buying ▪ Selling ▪ Couchsurfing ▪ Homestay ▪ PG ▪ Dharamshala*
